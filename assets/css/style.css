@@ -1,0 +1,19 @@
+header{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+header img{
+    background-color: white;
+}
+
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
